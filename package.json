@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.5.0",
     "lodash": "^4.17.11",
     "nedb": "^1.8.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "path": "^0.12.7",
     "superagent": "^5.0.5"
   },
